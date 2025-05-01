@@ -47,7 +47,7 @@
 
 ### 📬 Let's Connect
 
-- 📫 Email: [contact@gensyx.com](mailto:rajapandiyans1903@gmail.com)  
+- 📫 Email: [rajapandiyans1903@gmail.com](mailto:rajapandiyans1903@gmail.com)  
 - 🌐 Website: [portfolio](https://rajapandiyans-portfolio.vercel.app/)  
 - 📱 Instagram: [@ig_raj1903](https://www.instagram.com/ig_raj1903/profilecard/?igsh=MXF6dHVmZmx1eGlmdg==)
 
