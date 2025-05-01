@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raja Pandiyan</h1>
+<h1 align="center">Hi 👋, I'm Rajapandiyan S</h1>
 <h3 align="center">AI/ML Enthusiast | Frontend Developer | Founder of GenSyx Solutions 🚀</h3>
 
 <p align="center">
